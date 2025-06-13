@@ -189,7 +189,7 @@ export default function VideoSection() {
           transition={{ duration: 0.8, delay: 0.3 }}
           viewport={{ once: true }}
         >
-          Experience Planet's revolutionary platform designed to unite environmental 
+          Experience Planet&apos;s revolutionary platform designed to unite environmental 
           leaders worldwide and accelerate meaningful climate solutions.
         </motion.p>
 
